@@ -1,0 +1,4 @@
+﻿  学习项目1.cpp
+D:\编程学习项目\学习项目1\学习项目1.cpp(5,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  学习项目2.cpp
+  正在生成代码...
